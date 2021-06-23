@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practica_login</string>
+    
+    <string name="btn_iniciar_pantalla">Iniciar sesión</string>
+    <string name="btn_Registro_pantalla">Registro </string>
+    
+    
+    
+    
+</resources>
